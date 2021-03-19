@@ -1,0 +1,36 @@
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\obj\Debug\Petrol station.csprojAssemblyReference.cache
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\obj\Debug\Petrol_station.PetrolStation.resources
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\obj\Debug\Petrol_station.Properties.Resources.resources
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\obj\Debug\Petrol station.csproj.GenerateResource.cache
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\obj\Debug\Petrol station.csproj.CoreCompileInputs.cache
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\Petrol station.exe.config
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\Petrol station.exe
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\Petrol station.pdb
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\BouncyCastle.Crypto.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\Google.Protobuf.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\Guna.UI2.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\K4os.Compression.LZ4.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\K4os.Hash.xxHash.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\MySql.Data.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\Renci.SshNet.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\System.Buffers.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\System.Memory.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\System.Numerics.Vectors.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\Ubiety.Dns.Core.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\Zstandard.Net.dll
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\Google.Protobuf.pdb
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\Google.Protobuf.xml
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\K4os.Compression.LZ4.xml
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\K4os.Hash.xxHash.xml
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\MySql.Data.xml
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\Renci.SshNet.xml
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\System.Buffers.xml
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\System.Memory.xml
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\System.Numerics.Vectors.xml
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\obj\Debug\Petrol station.csproj.CopyComplete
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\obj\Debug\Petrol station.exe
+E:\Step\Ev tapşırıqları\2 -ci yarım il\WindowsForm\Ev tapşırıqları\Hazırlana ev tapşırıqları\3\New folder\Petrol station\obj\Debug\Petrol station.pdb
